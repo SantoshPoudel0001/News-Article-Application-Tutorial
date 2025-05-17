@@ -1,11 +1,11 @@
 import React from 'react'
 
-const authLayout = () => {
+const SignInForm = () => {
   return (
     <div>
-      
+      Namsta
     </div>
   )
 }
 
-export default AuthLayout
+export default SignInForm
